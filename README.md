@@ -44,6 +44,13 @@ An interactive web application built with HTML, CSS, and JavaScript.
 ![original-fbafeb9a3b3a9cc5ef4931d038b60a2b](https://github.com/Sujall10/Sujall10/assets/94795609/02e2b6d2-f58e-48d8-bed8-057267faaadb)
 
 
+## Portfolio
+
+Explore more of my work on my portfolio website:
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-9cf?style=flat-square&logo=google-chrome&logoColor=white)](https://sujall10.github.io/PortFolio/)
+
+
 ## Let's Connect
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujal-rajput/)
