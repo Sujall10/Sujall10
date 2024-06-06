@@ -53,7 +53,7 @@ Explore more of my work on my portfolio website:
 
 ## Let's Connect
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujal-rajput/)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](sujall10.github.io/UpdatedPortfolio/)
 - [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/Sujall10)
 - Email: sujalrajput0710@gmail.com
 - Phone: +91 9328422802
