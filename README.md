@@ -48,7 +48,7 @@ An interactive web application built with HTML, CSS, and JavaScript.
 
 Explore more of my work on my portfolio website:
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-9cf?style=flat-square&logo=google-chrome&logoColor=white)](sujall10.github.io/UpdatedPortfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-9cf?style=flat-square&logo=google-chrome&logoColor=white)](https://sujall10.github.io/UpdatedPortfolio/)
 
 
 ## Let's Connect
