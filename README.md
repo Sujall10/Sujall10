@@ -48,12 +48,12 @@ An interactive web application built with HTML, CSS, and JavaScript.
 
 Explore more of my work on my portfolio website:
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-9cf?style=flat-square&logo=google-chrome&logoColor=white)](https://sujall10.github.io/PortFolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-9cf?style=flat-square&logo=google-chrome&logoColor=white)](sujall10.github.io/UpdatedPortfolio/)
 
 
 ## Let's Connect
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](sujall10.github.io/UpdatedPortfolio/)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/sujal-rajput)
 - [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/Sujall10)
 - Email: sujalrajput0710@gmail.com
 - Phone: +91 9328422802
