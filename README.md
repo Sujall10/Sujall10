@@ -1,3 +1,8 @@
+<!--  PROFILE VISIT COUNTER  -->
+  <tr>
+   <p align="top"> <img src="https://komarev.com/ghpvc/?username=Sujall10&label=Profile%20views&color=36363b&style=flat" alt="Sujall10" /></p>
+  </tr>
+  
 # Hi there, I'm Sujal Rajput! 
 
 I'm a passionate Information Technology student with a strong interest in Data Science and Development. Welcome to my GitHub profile, where I showcase my projects and skills.
