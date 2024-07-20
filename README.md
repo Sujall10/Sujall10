@@ -77,6 +77,6 @@ Feel free to reach out to me for collaboration opportunities or to discuss proje
 </div>
 
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+ <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
 
