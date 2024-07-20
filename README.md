@@ -57,6 +57,15 @@ Explore more of my work on my portfolio website:
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-9cf?style=flat-square&logo=google-chrome&logoColor=white)](https://sujall10.github.io/UpdatedPortfolio/)
 
 
+## Github Stats
+
+
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Sujall10&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujall10&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+</p>
+
+
 ## Let's Connect
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/sujal-rajput)
