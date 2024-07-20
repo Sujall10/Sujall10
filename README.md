@@ -1,7 +1,4 @@
-<!--  PROFILE VISIT COUNTER  -->
-  <tr>
-   <p align="top"> <img src="https://komarev.com/ghpvc/?username=Sujall10&label=Profile%20views&color=36363b&style=flat" alt="Sujall10" /></p>
-  </tr>
+
   
 # Hi there, I'm Sujal Rajput! 
 
@@ -74,4 +71,12 @@ Explore more of my work on my portfolio website:
 - Phone: +91 9328422802
 
 Feel free to reach out to me for collaboration opportunities or to discuss projects!
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sujall10&style=for-the-badge&color=orange" alt=""/>
+</div>
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
