@@ -46,7 +46,4 @@ Feel free to reach out to me for collaboration opportunities or to discuss proje
   <img src="https://komarev.com/ghpvc/?username=Sujall10&style=for-the-badge&color=orange" alt=""/>
 </div>
 
-<p align="center">
- <img width="1000" src="github-snake.svg" alt="snake"/>
-</p>
 
