@@ -16,36 +16,6 @@ I'm a passionate Information Technology student with a strong interest in Data S
 - [![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com/)
 - ![GUI development](https://img.shields.io/badge/-GUI%20development-75AADB?style=flat-square)
 
-## Projects
-
-### Inventory Management System (IVM)
-
-A user-friendly and secure solution for efficient inventory management.
-
-- Implemented CRUD operations using Python and MySQL.
-- Developed intuitive user interfaces for easy navigation.
-  
-![images](https://github.com/Sujall10/Sujall10/assets/94795609/c86603d5-b610-4fb4-9506-1aeb99b1dda9)
-
-### Random Password Generator
-
-A simple application built using Python's Tkinter library.
-
-- Generates random passwords based on user-defined criteria.
-- Includes a mix of letters, digits, and punctuation characters for enhanced security.
-
-![113](https://github.com/Sujall10/Sujall10/assets/94795609/c4ecb2a6-4ef9-452a-a255-88823af1ed2e)
-
-
-### Money Tracking WebApp
-
-An interactive web application built with HTML, CSS, and JavaScript.
-
-- Provides users with a platform for managing finances.
-- Can be expanded with additional features based on user feedback.
-  
-![original-fbafeb9a3b3a9cc5ef4931d038b60a2b](https://github.com/Sujall10/Sujall10/assets/94795609/02e2b6d2-f58e-48d8-bed8-057267faaadb)
-
 
 ## Portfolio
 
